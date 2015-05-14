@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <Flipmedia_CategoryLink>
+      <active>true</active>
+      <codePool>local</codePool>            
+	        <depends>
+                <Mage_Cms />
+            </depends>
+      <version>0.1.0</version>
+    </Flipmedia_CategoryLink>
+  </modules>
+</config>
